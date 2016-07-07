@@ -20,7 +20,6 @@
   box-shadow: 18px 18px 10px #000;
   animation: bounce .6s infinite ease;
 }
-
 @keyframes bounce {
   0%, 100% {
     transform: translateY(0px);
@@ -34,3 +33,23 @@
 }
 
 /* Place your styles below this line */
+#student7 {
+  background-image: url('http://www.planwallpaper.com/static/images/maxresdefault1_edrCIjS.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+}
+
+#student7:hover {
+  background-image: url('http://img2.rnkr-static.com/list_img_v2/7296/527296/C480/the-top-horror-anime-of-all-time-u2.jpg');
+  color: #ff00f7;
+  text-shadow: 2px 2px #fff;
+  outline: 10px solid orange;
+  box-shadow: 18px 18px 10px #000;
+  animation: bounce .6s infinite ease;
+}
